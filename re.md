@@ -1,5 +1,5 @@
 #yuhoooo
-##yup slup
+##yup slup up p  df
 
 para are separated by a blank line
 
@@ -7,4 +7,4 @@ this is _underscored italic_, or, *starred italic*, __double underscored bold__,
 
 ---
 
-arbit [link] (http://google.com)
+arbit [link] (http:// google.com)
